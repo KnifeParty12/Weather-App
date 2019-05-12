@@ -4,7 +4,7 @@
 
 ### Deployment :star: : https://knifeparty12.github.io/Weather-App/
 
- > **Pre-requisites**
+### Pre-requisites
  
 *[1] Basic CSS.* <br>
 *[2]  Basic Vanilla JavaScript.* <br>
