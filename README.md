@@ -1,4 +1,8 @@
+ ### Important! :: You have to allow the app to access you location and also to load scripts only then results would be displayed :sparkling_heart:
+
 # Weather-App
+
+
 
 > A basic **weather-app** that displays the **Temperature** and **day-summary** along with nice **SVG-Icons**
 
