@@ -2,8 +2,10 @@
 
 > A basic **weather-app** that displays the **Temperature** and **day-summary** along with nice **SVG-Icons**
 
-### Pre-requisites
+### Deployment :star: : https://knifeparty12.github.io/Weather-App/
 
+ > **Pre-requisites**
+ 
 *[1] Basic CSS.* <br>
 *[2]  Basic Vanilla JavaScript.* <br>
 
